@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to start learning
 - 💞️ I’m looking to collaborate on tbd
 - 📫 How to reach me through email at themrcharple@gmail.com
+- Test 1
 
 <!---
 charple/charple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
